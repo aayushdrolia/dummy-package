@@ -1,0 +1,20 @@
+{
+  "name": "@aayushdrolia/dummy-package",
+  "version": "1.0.0",
+  "description": "This is a dummy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushdrolia/dummy-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushdrolia/dummy-package/issues"
+  },
+  "homepage": "https://github.com/aayushdrolia/dummy-package#readme"
+}
